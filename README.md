@@ -28,7 +28,7 @@ Para rodar qualquer um dos exercícios no seu computador, você precisará ter o
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/RianNovaes/Java-estudos
    ```
 2. Navegue até a pasta do exercício desejado.
 3. Compile o arquivo `.java`:
