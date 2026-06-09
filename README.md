@@ -4,8 +4,8 @@ Este repositório armazena resoluções de exercícios, desafios de lógica e pr
 
 ## Ambiente de Desenvolvimento
 
-- Linguagem: Java (versão 17)
-- IDE: VS Code / IntelliJ IDEA
+- Linguagem: Java (OpenJDK 21)
+- IDE: VS Code
 - Controle de Versão: Git e GitHub
 
 ## Conteúdos e Exercícios
@@ -28,7 +28,7 @@ Para rodar qualquer um dos exercícios no seu computador, você precisará ter o
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/RianNovaes/Java-estudos
+   git clone https://github.com/RianNovaes/Java-estudos.git
    ```
 2. Navegue até a pasta do exercício desejado.
 3. Compile o arquivo `.java`:
